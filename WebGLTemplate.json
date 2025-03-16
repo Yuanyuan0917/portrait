@@ -1,0 +1,7 @@
+{
+    "name": "MyCustomTemplate",
+    "description": "A custom template for WebGL.",
+    "canvas": {
+        "background": "#000000"
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "978958152100",
+    "firebase_url": "https://craft-your-own-ruysch-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "craft-your-own-ruysch",
+    "storage_bucket": "craft-your-own-ruysch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978958152100:ios:1127f35edbb68ad06fd131",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Craft-Your-Own-Ruysch"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0S9v6T0z33ZI0Hebzo8Fgc85Y7vrGu_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
